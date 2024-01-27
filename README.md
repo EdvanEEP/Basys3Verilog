@@ -5,6 +5,6 @@ All chapters and tasks inside chapters are given in the file names.
 
 File Name Format: verilog-chapternumber-tasknumber-submodulename(if there is).v
 
-Also constraint files are written in the same format: verilog-chapternumber-tasknumber.xdc
+Also constraint files have the same file name format: verilog-chapternumber-tasknumber.xdc
 
 Link: https://www.realdigital.org/course/digital-logic-for-the-boolean-board 
