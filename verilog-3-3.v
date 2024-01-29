@@ -19,7 +19,8 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-
+//This task is modified because it is hard for the beginners at logic design and verilog coding.
+//So we reduced the bits 8 to 4 and we also ignored floating points. The led illuminates if the number entered from switches is 7 or 8.
 module temperatureindicator(
 
 input [3:0] sw,
