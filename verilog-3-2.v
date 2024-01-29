@@ -33,6 +33,7 @@ output led
 //sw[3]=D
 //sw[4]=E
 
+//Since we didn't know karnaugh maps we did this task at that time, this can be simplified but i will leave this without changes    
     assign led= (sw[3]) | 
     (sw[1]) | 
     (sw[0]) | 
